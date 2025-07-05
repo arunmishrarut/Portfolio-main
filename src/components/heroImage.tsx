@@ -81,7 +81,7 @@ const HeroImage = () => {
           variants={drawVariants as Variants}
         /> */}
       </motion.svg>
-      <Image src={heroPhoto} alt='Arun' className='hero-image absolute bottom-0 h-[15%] w-full object-contain xs:h-[45%] translate-x-[23%] -translate-y-[60%]' />
+      <Image src={heroPhoto} alt='Arun' className='hero-image absolute bottom-0 h-[15%] w-full object-contain xs:h-[45%] -translate-y-[60%]' />
       <div
         className='hero-draw absolute bottom-0 h-[15%] w-full bg-text object-contain xs:h-[45%] translate-x-[23%] -translate-y-[60%]'
         style={{

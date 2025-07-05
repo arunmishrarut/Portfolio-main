@@ -28,7 +28,7 @@ const Foot = () => {
       <p className='mt-5 text-[14px] opacity-75 '>
         &copy; {new Date().getFullYear()} Arun Mishra <br />
       </p>
-      <a
+      {/*<a
         href='https://github.com/arunmishrarut/Portfolio-main'
         target='_blank'
         rel='noreferrer'
@@ -41,7 +41,7 @@ const Foot = () => {
             fill='currentColor'
           />
         </svg>
-      </a>
+      </a>*/}
     </footer>
   );
 };

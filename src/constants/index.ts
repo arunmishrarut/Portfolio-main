@@ -18,7 +18,7 @@ import ARNav from '../../public/photos/projects/ARNav.png';
 // Projects
 import ibm from '../../public/photos/hackathons/ibm.png';
 import k from '../../public/photos/hackathons/k.png';
-import jee from '../../public/photos/hackathons/jee.png';
+import ee from '../../public/photos/hackathons/ee.png';
 import blank from '../../public/photos/hackathons/blank.png';
 import recruitathon from '../../public/photos/hackathons/recruitathon.png';
 import mumbaihackathon from '../../public/photos/hackathons/mumbaihackathon.jpeg';
@@ -699,7 +699,7 @@ export const achievements = [
       'Ranked in the top 0.8% out of 1 million candidates in the IIT-Joint Entrance Examination 2013, earning admission to one of India’s top  engineering institutes.',
     name: 'IIT-Joint Entrance Examination(Advanced)-2013',
     designation: ' ',
-    image: jee,
+    image: ee,
     link: 'https://en.wikipedia.org/wiki/Joint_Entrance_Examination_%E2%80%93_Advanced',
   },
   {

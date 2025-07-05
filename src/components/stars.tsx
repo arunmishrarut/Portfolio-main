@@ -3,6 +3,7 @@ import { Canvas, useFrame } from '@react-three/fiber';
 import { Mesh, MeshBasicMaterial } from 'three';
 import { Suspense } from 'react';
 import { Preload } from '@react-three/drei';
+import * as THREE from 'three';
 
 const StarsCanvas = () => {
   interface Star {

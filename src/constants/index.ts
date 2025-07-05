@@ -126,7 +126,7 @@ export const navLinks = [
   {
     id: 'resume',
     title: 'Resume',
-    external_link: 'https://drive.google.com/file/d/1jHIRdEJC3LRA5Tz9S9439uhRDJsfiQCd/view?usp=sharing'
+    external_link: 'https://drive.google.com/uc?export=download&id=1t2o5R5q1HIG8ZpdivflfYDJNIRhuUyIL'
   }
 ];
 

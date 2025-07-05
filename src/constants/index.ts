@@ -17,6 +17,9 @@ import ARNav from '../../public/photos/projects/ARNav.png';
 
 // Projects
 import ibm from '../../public/photos/hackathons/ibm.png';
+import k from '../../public/photos/hackathons/k.png';
+import jee from '../../public/photos/hackathons/jee.png';
+import blank from '../../public/photos/hackathons/blank.png';
 import recruitathon from '../../public/photos/hackathons/recruitathon.png';
 import mumbaihackathon from '../../public/photos/hackathons/mumbaihackathon.jpeg';
 
@@ -599,15 +602,8 @@ export const experiences = [
 ];
 
 export const projects = [
-  {
-    name: 'Real time Credit Card Fraud Detection',
-    description:
-      "Developed a novel math-driven oversampling strategy that intelligently identifies and amplifies hard-to-classify samples using a custom probability-based scoring system. Engineered dynamic, adaptive sampling that targets both rare and difficult instances—boosting model focus where it matters most. Tuned class balance with precision through adaptive lambda scaling, avoiding dataset bloat. Rigorously benchmarked against SMOTE, ADASYN, TabNet, and the base model, consistently outperforming them across metrics with far fewer oversamples. Ensured robust evaluation with strict test set isolation, eliminating data leakage. This solution delivers sharper classification by strategically reinforcing model weaknesses.",
-    techstack: [    ],
-    image: BuyMe,
-    //prodLink: 'https://youtu.be/FCwjxD7UE_s',
-    srcLink: 'https://github.com/arunmishrarut/Credit-card-fraud-Detection-Novel-approach-outperform-ADASYN-and-SMOTE-V2.0',
-  },
+
+
   {
     name: 'Domain-Specific Medical LLM Fine-Tuning using LoRA & Scalable QA Pipeline',
     description:
@@ -618,13 +614,22 @@ export const projects = [
     srcLink: 'https://github.com/arunmishrarut/Fine-Tunning-and-inferencing-of-llama2-over-medical-terms-dataset/tree/main',
   },
   {
+    name: 'Real time Credit Card Fraud Detection',
+    description:
+      "Developed a novel math-driven oversampling strategy that intelligently identifies and amplifies hard-to-classify samples using a custom probability-based scoring system. Engineered dynamic, adaptive sampling that targets both rare and difficult instances—boosting model focus where it matters most. Tuned class balance with precision through adaptive lambda scaling, avoiding dataset bloat. Rigorously benchmarked against SMOTE, ADASYN, TabNet, and the base model, consistently outperforming them across metrics with far fewer oversamples. Ensured robust evaluation with strict test set isolation, eliminating data leakage. This solution delivers sharper classification by strategically reinforcing model weaknesses.",
+    techstack: [    ],
+    image: BuyMe,
+    //prodLink: 'https://youtu.be/FCwjxD7UE_s',
+    srcLink: 'https://github.com/arunmishrarut/Credit-card-fraud-Detection-Novel-approach-outperform-ADASYN-and-SMOTE-V2.0',
+  },
+  {
     name: 'AI-Driven Optimization for Maximizing Metal Recovery in Mining',
     description:
       'Optimised reagent dosing in iron ore flotation by using Random Forest model, automating the process while minimising chemical waste. Engineered and refined a large-scale industrial dataset (580,000+ records, 29 features), conducting rigorous feature selection using OLS p-values and multicollinearity diagnostics. Delivered a robust, data-driven solution that enhanced process efficiency and supported sustainable resource extraction.',
     techstack: [  ],
     image: blockvote,
     //prodLink: 'https://www.youtube.com/watch?v=APqiU_ad-vg',
-    srcLink: 'https://github.com/Darshee-m/Blockvote',
+    srcLink: 'https://github.com/arunmishrarut/AI-Driven-Optimisation-for-Maximizing-Metal-Recovery-in-Mining-Operation-namely-Flotation',
   },
   {
     name: 'Sentiment Analysis of Popular Songs\' Lyrics',
@@ -633,8 +638,9 @@ export const projects = [
     techstack: [    ],
     image: ARNav,
     // prodLink: '',
-    srcLink: 'https://github.com/Darshee-m/AR-Indoor-Navigation-App',
+    srcLink: 'https://github.com/arunmishrarut/Sentiment_Analysis_of_Popular_Songs-_Lyrics-',
   },
+  
   {
     name: 'Time Series Analysis with Conformal Prediction',
     description:
@@ -642,8 +648,9 @@ export const projects = [
     techstack: [    ],
     image: medicalProduct,
     // prodLink: 'https://www.youtube.com/watch?v=APqiU_ad-vg',
-    // srcLink: 'https://github.com/Darshee-m/Blockvote',
+    srcLink: 'https://github.com/arunmishrarut/Diffusion-Models-Time-Series-Forecasting',
   },
+
 ];
 
 export const techUsed = [
@@ -680,27 +687,54 @@ export const techUsed = [
 ];
 export const achievements = [
   {
+    achievement: 
+      'Achieved 98.7 percentile in the Common Admission Test (CAT) 2022 among 300,000 candidates, earning interview calls from India’s top management institutes.',
+    name: 'Common Admission Test-2022',
+    designation: ' ',
+    image: blank,
+    link: 'https://www.linkedin.com/feed/update/urn:li:activity:7342860861125935104/',
+  },
+  {
+    achievement: 
+      'Ranked in the top 0.8% out of 1 million candidates in the IIT-Joint Entrance Examination 2013, earning admission to one of India’s top  engineering institutes.',
+    name: 'IIT-Joint Entrance Examination(Advanced)-2013',
+    designation: ' ',
+    image: jee,
+    link: 'https://en.wikipedia.org/wiki/Joint_Entrance_Examination_%E2%80%93_Advanced',
+  },
+  {
     achievement:
-      "Created an application that screens resumes and takes preliminary HR interviews via a chat bot for applicant screening. Recruiters can also connect to the pool of suitable candidates via mail, chat or via our video calling facility.",
-    name: 'Recruit-a-thon 2020- Recruitment Solutions Hackathon',
-    designation: 'Winner among 200+ teams',
+      "Elected as Placement Representative and Coordinator, Student Body, IIT Dhanbad.Elected person represents his entire class in Training and Placement (Job) cell of the college. ",
+    name: 'IIT Dhanbad',
+    designation: ' ',
     image: recruitathon,
-    link: 'https://www.hackerearth.com/challenges/hackathon/recruit-a-thon/'
+    //link: 'https://www.hackerearth.com/challenges/hackathon/recruit-a-thon/'
   },
   {
-    achievement: 'The project I developed was an IOT solution to solve the problems of potholes and noise pollution in urban regions of Mumbai.',
-    name: 'Mumbai Hackathon 2019- an open-source hackathon',
-    designation: 'Winner Across the participants in Mumbai',
+    achievement: 
+      'Founded "Vakta [Orator]", a Toastmasters-inspired club, empowering 100+ students to enhance public speaking and job readiness through mock group discussions and interview simulations.',
+    name: 'IIT Dhanbad',
+    designation: ' ',
     image: mumbaihackathon,
-    link: 'https://x.com/mumbaihackathon/status/1112724512502501376?s=48&t=LKj1e2-o7RC6c7nJM1SF3Q',
+    //link: 'https://x.com/mumbaihackathon/status/1112724512502501376?s=48&t=LKj1e2-o7RC6c7nJM1SF3Q',
   },
   {
-    achievement: 'Awarded first place in the maiden installment of IBM Hack_Challenge, in 2019 for making a AI powered Friend Recommendation system using personality analysis.',
-    name: 'IBM Hack Challenge 2019',
-    designation: 'Winner in the Friend Affinity Finder Problem Statement',
+    achievement: 
+      'Completed 500+ hours of active practice in presentations, public speaking, and body language over four years, resulting in significant improvement in communication skills.',
+    name: 'IIT Dhanbad',
+    designation: ' ',
     image: ibm,
-    link: 'https://alumni.srit.ac.in/newsroom/news/IBM-Hackathon-2019.dz',
+    //link: 'https://alumni.srit.ac.in/newsroom/news/IBM-Hackathon-2019.dz',
   },
+  {
+    achievement: 
+      'Community Service: Volunteered as a Math Teacher with "Kartavya [Duty]" (2014-2017), supporting over 50 students at one of largest student-run NGO in India.',
+    name: 'IIT Dhanbad',
+    designation: ' ',
+    image: k,
+    link: 'https://en.wikipedia.org/wiki/Kartavya_(organization)',
+  },
+  
   
 ];
 

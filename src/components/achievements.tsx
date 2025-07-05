@@ -65,7 +65,7 @@ const Achievements = () => {
       <div className='padding min-h-[300px] rounded-2xl bg-gradient-to-b from-primary to-accent md:bg-gradient-to-r'>
         <motion.div variants={textVariant() as Variants}>
           {/*<p className='section-subtitle'>Some Awards and Achievements</p>*/}
-          <h2 className='section-title pointer-events-none'>Leadership Activities and Honors </h2>
+          <h2 className='section-title pointer-events-none'>Leadership, Honors and Extracurricular Activities </h2>
         </motion.div>
       </div>
       <div className='paddingX -mt-20 flex flex-wrap gap-7 pb-14'>

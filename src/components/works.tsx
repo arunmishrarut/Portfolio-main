@@ -252,7 +252,7 @@ const Works = () => {
     <>
       <motion.div variants={textVariant() as Variants}>
         {/*<p className='section-subtitle'>My work</p>*/}
-        <h2 className='section-title'>Projects</h2>
+        <h2 className='section-title'>Selected Projects</h2>
       </motion.div>
 
       <div className='flex w-full'>
@@ -268,6 +268,7 @@ const Works = () => {
           <ProjectCard key={index} index={index} {...project} />
         ))}
       </div>
+       
     </>
   );
 };

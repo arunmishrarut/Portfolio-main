@@ -81,8 +81,8 @@ const HeroImage = () => {
           variants={drawVariants as Variants}
         /> */}
       </motion.svg>
-      <Image src={heroPhoto} alt='Arun' className=" ero-image absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 md:bottom-0 md:top-auto md:left-0 md:translate-x-0 md:translate-y-0 h-[30vw] w-[70vw] xs:h-[45%] xs:w-full md:h-[15%] md:w-full object-contain"/>
-      <div
+      <Image src={heroPhoto} alt='Arun' className=" ero-image  absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 h-[40vw] w-[80vw] md:bottom-1/2 md:left-1/5 md:top-auto md:translate-x-[-13%] md:translate-y-[45%] md:h-[40%] md:w-[60%] object-contain"/>
+      <div                                                    
         className='hero-draw absolute bottom-0 h-[15%] w-full bg-text object-contain xs:h-[45%] translate-x-[23%] -translate-y-[60%]'
         style={{
           maskImage: `url(${heroDraw.src})`,

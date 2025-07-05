@@ -224,7 +224,7 @@ const ProjectCard = ({
                 </svg>
               </a>
             )}
-            {prodLink && (
+           {/*} {prodLink && (
               <a
                 href={prodLink}
                 target='_blank'
@@ -239,7 +239,7 @@ const ProjectCard = ({
                   />
                 </svg>
               </a>
-            )}
+            )}*/}
           </div>
         </div>
       </Tilt>

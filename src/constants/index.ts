@@ -7,6 +7,7 @@ import chera from '../../public/icons/companies/chera_health_logo.jpeg';
 
 // Projects
 import BuyMe from '../../public/photos/projects/BuyMe.png';
+import github_logo from '../../public/photos/projects/github_logo.png';
 import applybyai from '../../public/photos/projects/ApplyByAI.png';
 import blockvote from '../../public/photos/projects/BlockVote.png';
 import metadata from '../../public/photos/projects/MetadataMarketplace.png';
@@ -18,6 +19,7 @@ import ARNav from '../../public/photos/projects/ARNav.png';
 // Projects
 import ibm from '../../public/photos/hackathons/ibm.png';
 import k from '../../public/photos/hackathons/k.png';
+
 import ee from '../../public/photos/hackathons/ee.png';
 import blank from '../../public/photos/hackathons/blank.png';
 import recruitathon from '../../public/photos/hackathons/recruitathon.png';
@@ -602,15 +604,13 @@ export const experiences = [
 ];
 
 export const projects = [
-
-
   {
     name: 'Domain-Specific Medical LLM Fine-Tuning using LoRA & Scalable QA Pipeline',
     description:
       'Engineered a scalable, parameter-efficient fine-tuning pipeline for Llama 2 using LoRA adapters, achieving faster training and lower memory usage on GPUs. Implemented custom instruction-style prompting and leveraged float16 precision to further accelerate training, reduce inference time significantly (half) and memory usage on GPUs, while maintaining high accuracy with minimal precision degradation.',
     techstack: [  ],
     image: applybyai,
-    //prodLink: 'https://youtu.be/LBdAADp_0Jg',
+    prodLink: 'https://github.com/arunmishrarut/Fine-Tunning-and-inferencing-of-llama2-over-medical-terms-dataset/tree/main',
     srcLink: 'https://github.com/arunmishrarut/Fine-Tunning-and-inferencing-of-llama2-over-medical-terms-dataset/tree/main',
   },
   {
@@ -619,7 +619,7 @@ export const projects = [
       "Developed a novel math-driven oversampling strategy that intelligently identifies and amplifies hard-to-classify samples using a custom probability-based scoring system. Engineered dynamic, adaptive sampling that targets both rare and difficult instances—boosting model focus where it matters most. Tuned class balance with precision through adaptive lambda scaling, avoiding dataset bloat. Rigorously benchmarked against SMOTE, ADASYN, TabNet, and the base model, consistently outperforming them across metrics with far fewer oversamples. Ensured robust evaluation with strict test set isolation, eliminating data leakage. This solution delivers sharper classification by strategically reinforcing model weaknesses.",
     techstack: [    ],
     image: BuyMe,
-    //prodLink: 'https://youtu.be/FCwjxD7UE_s',
+    prodLink: 'https://github.com/arunmishrarut/Credit-card-fraud-Detection-Novel-approach-outperform-ADASYN-and-SMOTE-V2.0',
     srcLink: 'https://github.com/arunmishrarut/Credit-card-fraud-Detection-Novel-approach-outperform-ADASYN-and-SMOTE-V2.0',
   },
   {
@@ -628,7 +628,7 @@ export const projects = [
       'Optimised reagent dosing in iron ore flotation by using Random Forest model, automating the process while minimising chemical waste. Engineered and refined a large-scale industrial dataset (580,000+ records, 29 features), conducting rigorous feature selection using OLS p-values and multicollinearity diagnostics. Delivered a robust, data-driven solution that enhanced process efficiency and supported sustainable resource extraction.',
     techstack: [  ],
     image: blockvote,
-    //prodLink: 'https://www.youtube.com/watch?v=APqiU_ad-vg',
+    prodLink: 'https://github.com/arunmishrarut/AI-Driven-Optimisation-for-Maximizing-Metal-Recovery-in-Mining-Operation-namely-Flotation',
     srcLink: 'https://github.com/arunmishrarut/AI-Driven-Optimisation-for-Maximizing-Metal-Recovery-in-Mining-Operation-namely-Flotation',
   },
   {
@@ -637,7 +637,7 @@ export const projects = [
       'Analysed over 169,000 top Spotify tracks to uncover evolving trends in music sentiment and audio attributes using R. Conducted in-depth exploration of features highlighting how musical composition shifted across decades and artist eras. Delivered key findings showing modern songs trend toward higher energy, louder volumes, and increased danceability, while exhibiting lower acousticness and instrumentation.',
     techstack: [    ],
     image: ARNav,
-    // prodLink: '',
+    prodLink: 'https://github.com/arunmishrarut/Sentiment_Analysis_of_Popular_Songs-_Lyrics-',
     srcLink: 'https://github.com/arunmishrarut/Sentiment_Analysis_of_Popular_Songs-_Lyrics-',
   },
   
@@ -647,8 +647,17 @@ export const projects = [
       'Benchmarked traditional ARIMA against the state-of-the-art TSDiff diffusion model for probabilistic stock price forecasting using Yahoo Finance data across various tickers. Engineered a forecasting pipeline to evaluate model accuracy and trend-tracking capabilities on highly volatile time series. Leveraged ARIMA with dynamic retraining and TSDiff with quantile-guided DDPM sampling, generating 100 probabilistic samples per prediction. Analysed performance via MAE and MSE, revealing ARIMA\'s superior precision on short-horizon forecasts. Delivered key insights into the limitations of diffusion-based models on non-periodic financial data, while showcasing practical strengths of classical statistical methods.',
     techstack: [    ],
     image: medicalProduct,
-    // prodLink: 'https://www.youtube.com/watch?v=APqiU_ad-vg',
+    prodLink: 'https://github.com/arunmishrarut/Diffusion-Models-Time-Series-Forecasting',
     srcLink: 'https://github.com/arunmishrarut/Diffusion-Models-Time-Series-Forecasting',
+  },
+  {
+    name: ' ',
+    description:
+      '',
+    techstack: [    ],
+    image: github_logo,
+    prodLink: 'https://github.com/arunmishrarut?tab=repositories',
+    //srcLink: 'https://github.com/arunmishrarut?tab=repositories',
   },
 
 ];

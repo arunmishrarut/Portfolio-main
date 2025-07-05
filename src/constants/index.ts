@@ -708,7 +708,7 @@ export const achievements = [
     name: 'IIT Dhanbad',
     designation: ' ',
     image: recruitathon,
-    //link: 'https://www.hackerearth.com/challenges/hackathon/recruit-a-thon/'
+    link: 'https://arunmishrarut.github.io/Portfolio-main/'
   },
   {
     achievement: 
@@ -716,7 +716,7 @@ export const achievements = [
     name: 'IIT Dhanbad',
     designation: ' ',
     image: mumbaihackathon,
-    //link: 'https://x.com/mumbaihackathon/status/1112724512502501376?s=48&t=LKj1e2-o7RC6c7nJM1SF3Q',
+    link: 'https://arunmishrarut.github.io/Portfolio-main/',
   },
   {
     achievement: 
@@ -724,7 +724,7 @@ export const achievements = [
     name: 'IIT Dhanbad',
     designation: ' ',
     image: ibm,
-    //link: 'https://alumni.srit.ac.in/newsroom/news/IBM-Hackathon-2019.dz',
+    link: 'https://arunmishrarut.github.io/Portfolio-main/'
   },
   {
     achievement: 

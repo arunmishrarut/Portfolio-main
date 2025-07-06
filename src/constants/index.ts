@@ -713,7 +713,7 @@ export const achievements = [
   },
   {
     achievement:
-      "Elected as Placement Representative and Coordinator, Student Body, IIT Dhanbad.Elected person represents his entire class in Training and Placement (Job) cell of the college. ",
+      "Elected as Placement Representative and Coordinator, Student Body, IIT Dhanbad. Elected person represents his entire class in Training and Placement (Job) cell of the college. ",
     name: 'IIT Dhanbad',
     designation: ' ',
     image: recruitathon,
@@ -721,7 +721,7 @@ export const achievements = [
   },
   {
     achievement: 
-      'Founded \'Vakta [Orator],” a Toastmasters-inspired club at IIT Dhanbad, empowering 100+ students in public speaking and interview readiness.',
+      'Founded "Vakta [Orator]", a Toastmasters-inspired club at IIT Dhanbad, empowering 100+ students in public speaking and interview readiness.',
     name: 'IIT Dhanbad',
     designation: ' ',
     image: mumbaihackathon,

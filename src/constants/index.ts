@@ -578,7 +578,7 @@ export const experiences = [
     ],
   },
   {
-    title: 'Data Analyt Intern',
+    title: 'Data Analyst Intern',
     companyName: 'Tata Steel',
     icon: zs,
     link: 'https://en.wikipedia.org/wiki/Tata_Steel',

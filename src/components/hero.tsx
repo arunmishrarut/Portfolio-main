@@ -71,7 +71,7 @@ const Hero = () => {
                 initial='hidden'
                 animate='show'
               >
-                ,&nbsp;
+                !&nbsp;
               </motion.span>
             </div>
             <div>
@@ -150,7 +150,6 @@ const Hero = () => {
                 initial='hidden'
                 animate='show'
               >
-                .
               </motion.span>
             </div>
           </h1>

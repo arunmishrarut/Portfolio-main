@@ -47,7 +47,7 @@ const About = () => {
 
 proficient in Python, R, SQL, and modern data tools and bring hands-on expertise across Artificial Intelligence, Data Analysis, Data Engineering,and Machine Learning that drive revenue growth and optimize critical business metrics. I thrive in cross-functional environments, transforming complex data into actionable insights and leading projects from ideation to deployment.
 
-I poses strong leadership and team coordination skills, analytical thinking, clear communication, adaptability, and a collaborative approach. My business acumen enables me to align data-driven solutions with strategic objectives and deliver measurable value for the organisation.
+I possess strong leadership and team coordination skills, analytical thinking, clear communication, adaptability, and a collaborative approach. My business acumen enables me to align data-driven solutions with strategic objectives and deliver measurable value for the organisation.
 
 Curiosity-driven and committed to continuous learning, I’m passionate about using data and technology to solve real-world problems and contribute to high-impact, innovative initiatives.
       </motion.p>

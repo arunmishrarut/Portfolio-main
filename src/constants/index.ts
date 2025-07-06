@@ -569,7 +569,7 @@ export const experiences = [
     points: [
 
       'Automated reagent dosing in froth flotation circuits using Random Forest regression models, resulting in a 2.1% increase in lead recovery and 2.5% in zinc, which contributed to $5.9M in additional annual revenue.',
-      'Engineered and processed over 1.5 million rows from 106 data sources, applying SQL-based optimizations that reduced power consumption by 2%, leading to $70,000 in yearly savings.',
+      'Engineered and processed over 1.5 million rows from 106 data sources employing SQL and R to reduce power consumption by 2%, leading to $70,000 in yearly savings.',
       'Designed and maintained scalable ETL pipelines and Power BI dashboards to monitor daily production metrics, equipment downtime, and maintenance spend, improving operational visibility and real-time decision-making in daily leadership meetings.',
       'Defined and tracked key utilization metrics for Heavy Earth Moving Machines (HEMM) and Ball Mills, identifying inefficiencies that reduced contractor costs by $144,000 annually through data-driven asset reallocation.',
       'Applied Kanban agile practices in collaboration with global teams across various time zones, ensuring timely and effective project delivery.',

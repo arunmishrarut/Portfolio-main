@@ -574,7 +574,7 @@ export const experiences = [
       'Defined and tracked key utilization metrics for Heavy Earth Moving Machines (HEMM) and Ball Mills, identifying inefficiencies that reduced contractor costs by $144,000 annually through data-driven asset reallocation.',
       'Applied Kanban agile practices in collaboration with global teams across various time zones, ensuring timely and effective project delivery.',
       'Implemented process improvements in the water workflow that reduced freshwater consumption by 9.5% (from 85m³ to 77m³ per hour), maintaining plant throughput while ensuring regulatory compliance with environmental guidelines.',    
-      'Led a team of 40+ skilled and unskilled workers as Shift Engineer and In-Charge during the successful commissioning of a 2.0 MTPA processing plant',
+      'Led a team of 40+ skilled and unskilled workers as Shift Engineer and In-Charge during the successful commissioning of a 2.0 Million Tonnes per Annum processing plant',
     ],
   },
   {
@@ -586,7 +586,7 @@ export const experiences = [
     points: [
 
       'Analyzed water consumption data across 2,040 eight-hour shifts spanning two years, and developed an interactive Power BI dashboard that enabled operations teams to identify inefficiencies and optimize water usage in the coal beneficiation plant.',
-      'Performed detailed water balance calculations across three critical plant sections using industry-standard hydrological models, leading to the identification of key areas for water conservation and informing data-driven environmental strategy.',
+      'Performed detailed water balance calculations across three critical plant sections using industry-standard hydrological models, leading to the identification of key areas for water conservation to ensure government environmental regulations compliance.',
      ],
   },
   {
@@ -614,9 +614,9 @@ export const projects = [
     srcLink: 'https://github.com/arunmishrarut/Fine-Tunning-and-inferencing-of-llama2-over-medical-terms-dataset/tree/main',
   },
   {
-    name: 'Real time Credit Card Fraud Detection',
+    name: 'Fraud Detection with a novel math-driven oversampling strategy outperforming ADASYN, SMOTE and Tabnet (Transformer Architecture from google for Tabular Data)',
     description:
-      "Developed a novel math-driven oversampling strategy that intelligently identifies and amplifies hard-to-classify samples using a custom probability-based scoring system. Engineered dynamic, adaptive sampling that targets both rare and difficult instances—boosting model focus where it matters most. Tuned class balance with precision through adaptive lambda scaling, avoiding dataset bloat. Rigorously benchmarked against SMOTE, ADASYN, TabNet, and the base model, consistently outperforming them across metrics with far fewer oversamples. Ensured robust evaluation with strict test set isolation, eliminating data leakage. This solution delivers sharper classification by strategically reinforcing model weaknesses.",
+      "Developed a novel math-driven oversampling strategy that intelligently identifies and amplifies hard-to-classify samples using a custom probability-based scoring system. Engineered dynamic, adaptive sampling that targets rare and difficult instances boosting the model's focus where it matters most. Tuned class balance with precision through adaptive lambda scaling, avoiding dataset bloat. Rigorously benchmarked against SMOTE, ADASYN, TabNet, and the base model, consistently outperforming them across metrics with far fewer oversamples. Ensured robust evaluation with strict test set isolation, avoiding data leakage. This solution delivers sharper classification by strategically reinforcing model weaknesses.",
     techstack: [    ],
     image: BuyMe,
     prodLink: 'https://github.com/arunmishrarut/Credit-card-fraud-Detection-Novel-approach-outperform-ADASYN-and-SMOTE-V2.0',
@@ -625,7 +625,7 @@ export const projects = [
   {
     name: 'AI-Driven Optimization for Maximizing Metal Recovery in Mining',
     description:
-      'Optimised reagent dosing in iron ore flotation by using Random Forest model, automating the process while minimising chemical waste. Engineered and refined a large-scale industrial dataset (580,000+ records, 29 features), conducting rigorous feature selection using OLS p-values and multicollinearity diagnostics. Delivered a robust, data-driven solution that enhanced process efficiency and supported sustainable resource extraction.',
+      'Optimised reagent dosing in iron ore flotation by using Random Forest model, automating the process while minimising chemical waste. Engineered and refined a large-scale industrial dataset (580,000+ records, 29 features), conducting rigorous feature selection using OLS p-values and multicollinearity diagnostics. Delivered a robust, data-driven solution that enhanced process efficiency and supported sustainable extraction.',
     techstack: [  ],
     image: blockvote,
     prodLink: 'https://github.com/arunmishrarut/AI-Driven-Optimisation-for-Maximizing-Metal-Recovery-in-Mining-Operation-namely-Flotation',
@@ -697,7 +697,7 @@ export const techUsed = [
 export const achievements = [
   {
     achievement: 
-      'Achieved 98.7 percentile in the Common Admission Test (CAT) 2022 among 300,000 candidates, earning interview calls from India’s top management institutes.',
+      'Achieved 98.7 percentile in the Common Admission Test (CAT) 2022 among 300,000 candidates, earning interviews from India’s top management institutes.',
     name: 'Common Admission Test-2022',
     designation: ' ',
     image: blank,
@@ -705,7 +705,7 @@ export const achievements = [
   },
   {
     achievement: 
-      'Ranked in the top 0.8% out of 1 million candidates in the IIT-Joint Entrance Examination 2013, earning admission to one of India’s top  engineering institutes.',
+      'Ranked in the top 0.8% out of 1 million candidates in the IIT-Joint Entrance Examination 2013, earning admission to IIT Dhanbad.',
     name: 'IIT-Joint Entrance Examination(Advanced)-2013',
     designation: ' ',
     image: ee,
@@ -721,7 +721,7 @@ export const achievements = [
   },
   {
     achievement: 
-      'Founded "Vakta [Orator]", a Toastmasters-inspired club, empowering 100+ students to enhance public speaking and job readiness through mock group discussions and interview simulations.',
+      'Founded \'Vakta [Orator],” a Toastmasters-inspired club at IIT Dhanbad, empowering 100+ students in public speaking and interview readiness.',
     name: 'IIT Dhanbad',
     designation: ' ',
     image: mumbaihackathon,

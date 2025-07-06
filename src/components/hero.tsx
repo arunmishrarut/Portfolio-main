@@ -159,8 +159,8 @@ const Hero = () => {
             initial='hidden'
             animate='show'> 
               <span className='from-primary to-accent bg-clip-text text-transparent bg-gradient-120'>Data Scientist | AI/ML Engineer | Data Analyst | Data Engineer</span> 
-              <br className='hidden sm:block' />
-              <br className='hidden sm:block' />
+              <br/>
+              <br/>
               <span className='from-primary to-accent bg-clip-text text-transparent bg-gradient-120'>
               Passionate about solving problems using data and AI.</span>
               <br className='hidden sm:block' />

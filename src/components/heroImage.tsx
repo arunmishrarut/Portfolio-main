@@ -25,7 +25,9 @@ const HeroImage = () => {
     // const heroDraw = document.querySelector('.hero-draw') as HTMLElement;
     const heroImage = document.querySelector('.hero-image') as HTMLElement;
     // heroDraw.classList.add('hero-opacity');
-    heroImage.classList.add('hero-opacity');
+    if (heroImage){
+      heroImage.classList.add('hero-opacity');
+    }
     // heroCurve.classList.add('hero-gradient');
 
   //   heroDraw.addEventListener(

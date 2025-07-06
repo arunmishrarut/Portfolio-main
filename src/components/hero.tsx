@@ -165,7 +165,7 @@ const Hero = () => {
               Passionate about solving problems using data and AI.</span>
               <br className='hidden sm:block' />
               <span className='from-primary to-accent bg-clip-text text-transparent bg-gradient-120'> 5 years of experience</span> of  
-              turning real world data into actionable insights.
+              turning real world data into actionable insights and solutions.
           </motion.p>
           <HeroSocial />
         </div>

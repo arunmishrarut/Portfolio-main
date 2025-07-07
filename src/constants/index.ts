@@ -575,6 +575,7 @@ export const experiences = [
       'Applied Kanban agile practices in collaboration with global teams across various time zones, ensuring timely and effective project delivery.',
       'Implemented process improvements in the water workflow that reduced freshwater consumption by 9.5% (from 85m³ to 77m³ per hour), maintaining plant throughput while ensuring regulatory compliance with environmental guidelines.',    
       'Led a team of 40+ skilled and unskilled workers as Shift Engineer and In-Charge during the successful commissioning of a 2.0 Million Tonnes per Annum processing plant',
+      'Collaborated with international vendors to oversee on-site lab trials on company ore/processes; collected and analysed data, and presented findings to the senior leadership and General Manager. Upon approval, led full-scale plant trials to implement and evaluate vendors\' solutions.',
     ],
   },
   {

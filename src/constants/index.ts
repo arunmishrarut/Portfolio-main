@@ -549,7 +549,7 @@ export const services = [
 
 export const experiences = [
   {
-    title: 'AI/ML Engineer',
+    title: 'Data Scientist',
     companyName: 'Accessifiers',
     icon: rutgers,
     link: 'https://www.accessifiers.org/',

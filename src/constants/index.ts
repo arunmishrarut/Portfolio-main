@@ -556,8 +556,8 @@ export const experiences = [
     date: 'Mar 2025 - Present',
     points: [
 
-      'Designed an accessibility-first AI chatbot for Deaf users integrating Natural Language Processing (NLP) and real-time text-to-ASL translation, ensuring WCAG-compliant UI and culturally relevant content.',
-      'Led cross-functional discovery sprints applying agile frameworks (Scrum, Kanban) to coordinate AI engineers, UX researchers, and Deaf educators, facilitating data engineering for sign-language datasets for the MVP.', 
+      'Building a scalable AI agent for Deaf users with Azure AI foundry, Azure Cognitive Services, and a real-time text‑to‑ASL pipeline, enabling 24/7 telehealth triage and counselling deployed on Facebook Messenger',
+      'Led cross-functional discovery sprints using Agile(Scrum) framework to accelerate delivery timelines by 25%.', 
     ],
   },
   {
@@ -568,12 +568,12 @@ export const experiences = [
     date: 'May 2018 - Jul 2022',
     points: [
 
-      'Automated reagent dosing in froth flotation circuits using Random Forest regression models, resulting in a 2.1% increase in lead recovery and 2.5% in zinc, which contributed to $5.9M in additional annual revenue.',
-      'Engineered and processed over 1.5 million rows from 106 data sources employing SQL and R to reduce power consumption by 2%, leading to $70,000 in yearly savings.',
+      'Built and deployed Random Forest regression models on edge server to automate reagent dosing in 2 MTPA lead-zinc plant, increasing lead recovery by 2.1% and zinc recovery by 2.5%, adding $5.9M in annual revenue.',
+      'Engineered over 1.5 million rows from 106 data sources using Azure Synapse and Data Lake, enhancing energy efficiency by 2%, resulting in $70,000 in yearly savings',
       'Designed and maintained scalable ETL pipelines and Power BI dashboards to monitor daily production metrics, equipment downtime, and maintenance spend, improving operational visibility and real-time decision-making in daily leadership meetings.',
-      'Defined and tracked key utilization metrics for Heavy Earth Moving Machines (HEMM) and Ball Mills, identifying inefficiencies that reduced contractor costs by $144,000 annually through data-driven asset reallocation.',
+      'Designed and tracked key utilization metrics for Heavy Earth Moving Machines (HEMM) and Ball Mills, identifying inefficiencies that reduced contractor costs by $144,000 annually through data-driven asset reallocation.',
       'Applied Kanban agile practices in collaboration with global teams across various time zones, ensuring timely and effective project delivery.',
-      'Implemented process improvements in the water workflow that reduced freshwater consumption by 9.5% (from 85m³ to 77m³ per hour), maintaining plant throughput while ensuring regulatory compliance with environmental guidelines.',    
+      'Conducted ad hoc EDA to identify and implement process improvements, reducing freshwater consumption by 9.5%, ensuring compliance with environmental regulations.', 
       'Led a team of 40+ skilled and unskilled workers as Shift Engineer and In-Charge during the successful commissioning of a 2.0 Million Tonnes per Annum processing plant',
       'Collaborated with international vendors to oversee on-site lab trials on company ore/processes; collected and analysed data, and presented findings to the senior leadership and General Manager. Upon approval, led full-scale plant trials to implement and evaluate vendors\' solutions.',
     ],

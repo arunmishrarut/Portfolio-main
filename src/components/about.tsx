@@ -43,13 +43,7 @@ const About = () => {
       </motion.div>
 
       <motion.p variants={fadeIn('', '', 0.1, 1) as Variants} className='section-text pointer-events-auto mt-4 max-w-3xl text-[17px] leading-[30px] text-text'>
-        With  5 years of experience spanning technology, mining, and manufacturing industry, I am a data science and engineering professional. With Master’s degree in Data Science from Rutgers University and dual degree in Engineering from IIT Dhanbad, I am 
-
-proficient in Python, R, SQL, and modern data tools and bring hands-on expertise across Data Science, Artificial Intelligence & Machine Learning, Data Analysis, Data Engineering, that drive revenue growth and optimize critical business metrics. I thrive in cross-functional environments, transforming complex data into actionable insights and leading projects from ideation to deployment.
-
-I possess strong leadership & team coordination skills, analytical thinking, clear communication, adaptability, and a collaborative approach. My business acumen enables me to align data-driven solutions with strategic objectives and deliver measurable value for the organisation.
-
-Curiosity-driven and committed to continuous learning, I’m passionate about using data and technology to solve real-world problems and contribute to high-impact, innovative initiatives.
+        Data Science & AI professional with 5 years’ experience across technology, mining, and manufacturing. Armed with a Master’s in Data Science (Rutgers) and dual engineering degree from IIT Dhanbad, I excel in Python, R, SQL, and modern data tools. I specialize in turning complex data into actionable insights, leading projects from concept to deployment, and delivering solutions that boost revenue and optimize key metrics. Known for strategic thinking, cross-functional collaboration, and adaptability, I’m driven by a passion for solving real-world problems through data and innovation.
       </motion.p>
 
       <div className='mt-20 flex select-none flex-wrap gap-10'>

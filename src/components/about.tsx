@@ -44,7 +44,7 @@ const About = () => {
 
       <motion.p variants={fadeIn('', '', 0.1, 1) as Variants} className='section-text pointer-events-auto mt-4 max-w-3xl text-[17px] leading-[30px] text-text'>
         Data Science & AI professional with 5 years’ experience across technology, mining, and manufacturing. 
-        Armed with a Master’s in Data Science (Rutgers) and dual engineering degree from IIT Dhanbad, 
+        Armed with a Master’s in Data Science from Rutgers University - New Brunswick and dual engineering degree from IIT Dhanbad, 
         I excel in Python, R, SQL, modern data tools and cloud computing. 
         I specialize in turning complex data into actionable insights, leading projects from concept to deployment, 
         and delivering solutions that boost revenue and optimize key metrics. Known for strategic thinking, 
